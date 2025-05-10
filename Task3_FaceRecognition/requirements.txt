@@ -1,0 +1,7 @@
+opencv-python>=4.5.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+scikit-learn>=0.24.0
+pillow>=8.0.0
+tensorflow>=2.4.0
+pyopencl>=2022.1
