@@ -6,6 +6,8 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+*.pyo
+*.pyd
 
 # VSCode
 .vscode/
@@ -25,8 +27,13 @@ Thumbs.db
 *.zip
 *.tar.gz
 *.rar
+*.pyc
 
 # Logs and temporary files
 *.log
 *.tmp
 *.swp
+
+#Environment/Config files
+*.env
+*.cfg
