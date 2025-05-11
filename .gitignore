@@ -8,6 +8,9 @@ dist/
 build/
 *.pyo
 *.pyd
+codsoft/Lib/
+codsoft/Include/
+codsoft/Scripts/
 
 # VSCode
 .vscode/
